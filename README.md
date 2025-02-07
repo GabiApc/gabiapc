@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Gabi</h1>
-<h4 align="left">A passionate frontend developer from Romania. At the base I'm electrical engineer with experience in developing web and mobile applications using a variety of open-source frameworks and languages like React and TypeScript. Specialized in the IoT domain, focusing on GPS devices in agriculture and tracking devices. I am currently upskilling in full-stack development, as I am committed to continuous learning and growth.</h3>
+<p align="left">A passionate frontend developer from Romania. At the base I'm electrical engineer with experience in developing web and mobile applications using a variety of open-source frameworks and languages like React and TypeScript. Specialized in the IoT domain, focusing on GPS devices in agriculture and tracking devices. I am currently upskilling in full-stack development, as I am committed to continuous learning and growth.</p>
 
 
 
